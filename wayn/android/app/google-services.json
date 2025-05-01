@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147686923596",
+    "project_id": "wayn-vtc",
+    "storage_bucket": "wayn-vtc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147686923596:android:5d6cba84427efa9a6183e9",
+        "android_client_info": {
+          "package_name": "com.wayn.Client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZNzzcWW11ilVtfo1wGCZ3Rw2Dwv9fM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147686923596:android:c937084e20eeef6c6183e9",
+        "android_client_info": {
+          "package_name": "com.wayn.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZNzzcWW11ilVtfo1wGCZ3Rw2Dwv9fM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
